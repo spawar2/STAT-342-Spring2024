@@ -12,3 +12,5 @@ Learning Objectives[# STAT-342-Spring2024 3 Credits Probability & Statistics](ht
 [Correlation:](https://youtu.be/yndToTyudUQ)
 
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
+
+STAT341 Spring 2024 (3 credit) (20 students)
