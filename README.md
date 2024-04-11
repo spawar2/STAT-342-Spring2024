@@ -11,6 +11,8 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 
 [Correlation:](https://youtu.be/yndToTyudUQ)
 
+Chi Square: https://youtu.be/dgehxC9tJVc
+
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
 STAT341 Spring 2024 (3 credit) (20 students)
