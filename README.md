@@ -6,6 +6,7 @@ Date created/updated: December, 9, 2024.
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
 [R: ggpubr, tidyverse, datarium, dplyr].
 [T Test:](https://youtu.be/sIpMsN90Dt8)
+![download](https://github.com/user-attachments/assets/3c49d359-0f13-4f38-b15c-6d6c55ab5864)
 
 [Anova:](https://youtu.be/Z-S4CfsRHA0)
 
